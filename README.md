@@ -1,4 +1,4 @@
-# wm-shopkeeper-bot
+# West Marches Shopkeeper Bot
 Slack Shopkeeper bot for a West Marches campaign
 
 Slack bot that will keep track of various player character's gold, keep track of various shops and their stock
